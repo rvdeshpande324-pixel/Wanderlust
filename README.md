@@ -1,2 +1,17 @@
 # Wanderlust
-Wanderlust is a full-stack travel listing web application inspired by Airbnb, built with Node.js, Express.js, MongoDB, EJS, and Bootstrap. It features user authentication, CRUD operations, RESTful architecture, server-side validation, and a responsive interface for discovering and managing travel listings.
+Wanderlust
+
+A full-stack travel listing web application inspired by Airbnb.
+
+Features:
+• User authentication
+• Create, edit and delete listings
+• Image-based listings
+• Reviews and ratings
+• Server-side validation
+• Error handling
+• RESTful routing
+• MongoDB database
+
+Tech Stack:
+Node.js | Express.js | MongoDB | Mongoose | EJS | Bootstrap
